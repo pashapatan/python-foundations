@@ -1,20 +1,32 @@
-# Band Name Generator
+# Python Foundations 🐍
 
-A simple Python program that generates a band name based on
-the user's city and pet name.
+This repository documents my journey of learning Python through
+hands-on exercises, challenges, and projects.
 
-## Concepts Used
+## My Learning Journey
+
+I am building my Python foundation by learning one concept at a time
+and applying it through practical projects.
+
+The projects in this repository are organized by topic and
+chronological order as I progress.
+
+## Topics
 
 - Variables
-- Strings
-- User input
-- f-strings
+- Data Types
+- Conditional Statements
+- Randomisation
+- Lists
+- Loops
+- Functions
+- Dictionaries
+- Object-Oriented Programming
+- APIs
+- File Handling
+- And more...
 
-## What I Learned
+## Goal
 
-I learned how to store information in variables and use those
-variables to create dynamic output.
-
-## How to Run
-
-Run `main.py` and enter your city name and pet name.
+Build a strong foundation in Python that I can later apply to
+Artificial Intelligence, Machine Learning, and more advanced projects.
